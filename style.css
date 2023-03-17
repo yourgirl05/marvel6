@@ -1,0 +1,33 @@
+body   {
+    background-color: rgb(226, 214, 161);
+}
+h1 {
+    text-shadow:3px 5px 6px rgba(57, 57, 80, 0.719)
+    
+}
+h1 {
+     color: #3a03ff;
+}
+h1 {
+    font-size: 53px;
+    text-align: center;
+}
+p {
+    font-size: 22px;
+}
+ .linb { 
+    text-decoration: none}
+    li {
+        font-size: 24px;
+    }
+    ul {
+        font-size: 25px;
+    }
+    img {
+        width: 800px;
+        height: 500px;
+        margin-left: 400px;
+    }
+.photo-2 {
+    margin-right: 300px;
+}
